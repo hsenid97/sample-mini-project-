@@ -1,0 +1,7 @@
+C:\Users\saidinesh\source\repos\PizzaOrderingSystem\PizzaOrderingSystem\bin\Debug\PizzaOrderingSystem.exe.config
+C:\Users\saidinesh\source\repos\PizzaOrderingSystem\PizzaOrderingSystem\bin\Debug\PizzaOrderingSystem.exe
+C:\Users\saidinesh\source\repos\PizzaOrderingSystem\PizzaOrderingSystem\bin\Debug\PizzaOrderingSystem.pdb
+C:\Users\saidinesh\source\repos\PizzaOrderingSystem\PizzaOrderingSystem\obj\Debug\PizzaOrderingSystem.csprojAssemblyReference.cache
+C:\Users\saidinesh\source\repos\PizzaOrderingSystem\PizzaOrderingSystem\obj\Debug\PizzaOrderingSystem.csproj.CoreCompileInputs.cache
+C:\Users\saidinesh\source\repos\PizzaOrderingSystem\PizzaOrderingSystem\obj\Debug\PizzaOrderingSystem.exe
+C:\Users\saidinesh\source\repos\PizzaOrderingSystem\PizzaOrderingSystem\obj\Debug\PizzaOrderingSystem.pdb
